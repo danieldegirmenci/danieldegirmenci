@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Değirmenci</h1>
 <h3 align="center">Maths student at Istanbul University, working on improving my skills in web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieldegirmenci&label=Profile%20views&color=0e75b6&style=flat" alt="danieldegirmenci" /> </p>
-
 
 - 🔭 I’m currently working on **React projects**
 
