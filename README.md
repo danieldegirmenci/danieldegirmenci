@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **danieldegirmenci1@gmail.com**
 
-- ⚡ Fun fact **the office fan**
+- ⚡ Fun fact **The Office fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
